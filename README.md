@@ -1,6 +1,6 @@
-# new_app
+Sadeem-Internship Project
 
-A new Flutter project.
+Mobile app developed during Sadeem tech company internship
 
 ## Getting Started
 
